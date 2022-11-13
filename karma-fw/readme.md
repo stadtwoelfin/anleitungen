@@ -1,7 +1,7 @@
 # Karma Firewall
 **Eine Firewall für Android Handys**
 
-1) [Karma Firewall](https://f-droid.org/de/packages/net.stargw.fok/) aus dem F-Droid-Store herunterladen.
+[Karma Firewall](https://f-droid.org/de/packages/net.stargw.fok/) aus dem F-Droid-Store herunterladen.
 
 ----
 
@@ -9,7 +9,7 @@
 
 ---
 
-2) Hinab scrollen und auf das oberste **APK herunterladen** klicken.
+Hinab scrollen und auf das oberste **APK herunterladen** klicken.
 
 ----
 
@@ -17,7 +17,7 @@
 
 ---
 
-3) Nun die Abfrage mit »Trotzdem herunterladen« bestätigen.
+Nun die Abfrage mit »Trotzdem herunterladen« bestätigen.
 
 ----
 
@@ -25,7 +25,7 @@
 
 ---
 
-Text4
+Jetzt oben auf **Öffnen** klicken.
 
 ----
 
@@ -33,7 +33,7 @@ Text4
 
 ---
 
-Text5
+In dem Hinweisfeld nun auf **Einstellungen** klicken.
 
 ----
 
@@ -41,7 +41,7 @@ Text5
 
 ---
 
-Text6
+**Dieser Quelle vertrauen** aktivieren.
 
 ----
 
@@ -49,7 +49,7 @@ Text6
 
 ---
 
-Text7
+**Installieren** klicken.
 
 ----
 
@@ -57,7 +57,7 @@ Text7
 
 ---
 
-Text8
+Die Firewall wird nun installiert.
 
 ----
 
@@ -65,7 +65,7 @@ Text8
 
 ---
 
-Text9
+**ACHTUNG!** Jetzt auf **FERTIG** klicken. Danach den Schieberegler von _Dieser Quelle vertrauen_ wieder **deaktivieren**. 
 
 ----
 
