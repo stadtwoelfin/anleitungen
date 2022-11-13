@@ -139,7 +139,7 @@ Wähle **Allow/Block All**.
 
 ---
 
-Und nun wähle **Block All**.
+Und nun wähle **Block All** (_Allow All_ erlaubt alle Apps).
 
 ----
 
@@ -147,7 +147,7 @@ Und nun wähle **Block All**.
 
 ---
 
-Alle Systemapps kommen nun nicht mehr ins Internet.
+Alle System-Apps kommen nun nicht mehr ins Internet.
 
 ----
 
@@ -165,7 +165,7 @@ Klick auf **View User Apps**.
 
 ---
 
-
+Klick nun wieder auf **Allow/Block All**.
 
 ----
 
@@ -173,7 +173,7 @@ Klick auf **View User Apps**.
 
 ---
 
-Text21
+Nun auf **Block all** (_Allow All_ erlaubt alle Apps).
 
 ----
 
@@ -181,7 +181,9 @@ Text21
 
 ---
 
-Text22
+Wähle die Apps und System-Apps aus, die ins Internet dürfen. Klick dafür einfach auf einen roten oder grünen Punkt, um den Punkt von rot auf grün oder von grün auf rot umzuschalten.
+
+Grüner Punkt = Internetzugang, roter Punkt = darf nicht ins Internet.
 
 ----
 
@@ -189,7 +191,10 @@ Text22
 
 ---
 
-Text23
+In diesem Beispiel habe ich den von mir verwendeten Apps [Threema](http://shop.threema.ch) und [Zapp](https://f-droid.org/de/packages/de.christinecoenen.code.zapp/) einen Zugang zum Internet erlaubt.
+
+Mit _Threema_ kann ist ein verschlüsseltes Chatten möglich.
+Mit _Zapp_ können die öffentlich-rechtlichen Mediatheken durchsucht werden und die Videos angesehen werden.
 
 ----
 
@@ -197,7 +202,7 @@ Text23
 
 ---
 
-Text24
+Einstellungen → Netzwerk & Internet → VPN → Karma FW → Zahnrad-Symbol drücken → **Durchgehend aktives VPN** anwählen
 
 ----
 
@@ -205,15 +210,11 @@ Text24
 
 ---
 
-Text25
-
-----
-
-![Anleitung Bild 025](img/anleitung_karma_fw_firewall_025.jpg)
+Falls vorhin bei der Installation vergessen wurde, dem Browser die Berechtigung _Installieren unbekannter Apps_ wieder zu entziehen, ist es folgendermaßen lösbar:
 
 ---
 
-Text26
+Gehe in die Einstellungen. Bei _Einstellungen suchen_ **unbekannt** eingeben.
 
 ----
 
@@ -221,7 +222,7 @@ Text26
 
 ---
 
-Text27
+Nun auf **Installieren unbekannter Apps** klicken.
 
 ----
 
@@ -229,7 +230,7 @@ Text27
 
 ---
 
-Text28
+Runter scrollen zu **Installieren unbekannter Apps** und diesen Menüpunkt anklicken.
 
 ----
 
@@ -237,7 +238,7 @@ Text28
 
 ---
 
-Text29
+Nun runter scrollen zum Namen vom Browser und den Namen vom Browser anklicken.
 
 ----
 
@@ -245,7 +246,7 @@ Text29
 
 ---
 
-Text30
+Jetzt den Schieberegler von _Dieser Quelle vertrauen_ **deaktivieren**
 
 ----
 
@@ -253,10 +254,14 @@ Text30
 
 ---
 
-Text31
+Dem Browser sind nun die Rechte entzogen worden, unbekannte Apps zu installieren. 
 
 ----
 
 ![Anleitung Bild 031](img/anleitung_karma_fw_firewall_031.jpg)
 
 ---
+
+Die Firewall ist nun einsatzbereit. 
+
+Gutes Gelingen!
