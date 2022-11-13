@@ -65,7 +65,7 @@ Die Firewall wird nun installiert.
 
 ---
 
-**ACHTUNG!** Jetzt auf **FERTIG** klicken. Danach den Schieberegler von _Dieser Quelle vertrauen_ wieder **deaktivieren**. 
+**ACHTUNG!** Jetzt auf **FERTIG** klicken. 
 
 ----
 
@@ -73,7 +73,11 @@ Die Firewall wird nun installiert.
 
 ---
 
-Text10
+Danach den Schieberegler von _Dieser Quelle vertrauen_ wieder **deaktivieren**. 
+
+Nun die App starten. 
+
+Oben rechts auf den **roten Schlüssel** drücken. 
 
 ----
 
@@ -81,7 +85,7 @@ Text10
 
 ---
 
-Text11
+Mit einem Klick auf **OK** bestätigen.
 
 ----
 
@@ -89,7 +93,7 @@ Text11
 
 ---
 
-Text12
+Auch hier einmal **OK** drücken.
 
 ----
 
@@ -97,7 +101,9 @@ Text12
 
 ---
 
-Text13
+Nun kann ausgewählt werden, welche Apps ins Internet dürfen und welche nicht. 
+
+Grüner Punkt = Internetzugang, roter Punkt = darf nicht ins Internet.
 
 ----
 
@@ -105,7 +111,9 @@ Text13
 
 ---
 
-Text14
+Mit einem Klick auf das **3-Punkte-Menü** oben rechts öffnet sich das Menü.
+
+Klicke **View System Apps** an.
 
 ----
 
@@ -113,7 +121,7 @@ Text14
 
 ---
 
-Text15
+Hier kann ausgewählt werden, welche System-Apps ins Internet dürfen. Hinweis: Eine Deaktivierung des Internetzugangs für System-Apps kann die Funktion des Android erheblich beeinträchtigen: Updates können nicht mehr geladen werden, Die zwei wichtigen Apps [NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html) und [NORA](https://www.nora-notruf.de/de-as/startseite) funktionieren nicht mehr richtig und auch andere Apps, die auf Push-Benachrichtungen durch Google angewiesen sind, könnten nicht mehr ordnungsgemäß funktoinieren oder seltsam reagieren.
 
 ----
 
@@ -121,7 +129,9 @@ Text15
 
 ---
 
-Text16
+Ein Klick auf das **3-Punkte-Menü**. 
+
+Wähle **Allow/Block All**.
 
 ----
 
@@ -129,7 +139,7 @@ Text16
 
 ---
 
-Text17
+Und nun wähle **Block All**.
 
 ----
 
@@ -137,7 +147,7 @@ Text17
 
 ---
 
-Text18
+Alle Systemapps kommen nun nicht mehr ins Internet.
 
 ----
 
@@ -145,7 +155,9 @@ Text18
 
 ---
 
-Text19
+Wähle wieder das **3-Punkte-Menü**.
+
+Klick auf **View User Apps**.
 
 ----
 
@@ -153,7 +165,7 @@ Text19
 
 ---
 
-Text20
+
 
 ----
 
