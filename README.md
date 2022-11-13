@@ -6,7 +6,7 @@ Super schnelles Android Backup mit der _Android Debug Bridge_
 
 ## K
 
-[Karma Firewall](https://github.com/stadtwoelfin/anleitungen/tree/main/karma-fw)  
+[Karma Firewall](https://github.com/stadtwoelfin/anleitungen/tree/main/karma-firewall)  
 Karma Firewall. Eine Firewall für Android Handys.
 
 ## S
